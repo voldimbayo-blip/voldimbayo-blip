@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/voldimbayo-blip/voldimbayo-blip/main/assets/voldi-3d-hero.png" width="100%" alt="Abstract three-dimensional VM sculpture in graphite and emerald green" />
+<img src="https://raw.githubusercontent.com/voldimbayo-blip/voldimbayo-blip/main/assets/voldi-3d-hero.jpg" width="100%" alt="Abstract three-dimensional VM sculpture in graphite and emerald green" />
 
 <br />
 
