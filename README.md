@@ -5,16 +5,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:22c55e&amp;height=200&amp;section=header&amp;text=VOLDI%20MBAYO&amp;fontSize=48&amp;fontColor=f0f6fc" alt="Voldi Mbayo" />
+<img width="100%" src="./assets/hero.svg" alt="Voldi Mbayo — Full-Stack and Mobile Developer" />
 
-### FULL-STACK &amp; MOBILE DEVELOPER · FOUNDER OF HAVENLABS
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=22C55E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+modern+web+platforms;Crafting+cross-platform+mobile+apps;Turning+ideas+into+digital+products;Engineering+from+interface+to+infrastructure" alt="Animated introduction" />
 
 <a href="https://voldimbayo.com"><img src="https://img.shields.io/badge/PORTFOLIO-22C55E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Portfolio" /></a>
 <a href="mailto:contact@voldimbayo.com"><img src="https://img.shields.io/badge/LET'S_TALK-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=22C55E" alt="Email Voldi Mbayo" /></a>
 
 </div>
 
-## `> whoami`
+## `01 // IDENTITY`
 
 ```yaml
 name: Voldi Mbayo
@@ -33,7 +35,7 @@ EXPLORING    Scalable products for African and global markets
 AVAILABLE    Product collaborations and selected client projects
 ```
 
-## `> tech --stack`
+## `02 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
@@ -52,7 +54,7 @@ AVAILABLE    Product collaborations and selected client projects
 
 </div>
 
-## `> ls ./featured-products`
+## `03 // PRODUCT LAB`
 
 | Product | Status |
 | :--- | :--- |
@@ -62,7 +64,7 @@ AVAILABLE    Product collaborations and selected client projects
 
 These products are part of my current portfolio. Public repositories and live demos will be linked here when they are ready to share.
 
-## `> github --stats`
+## `04 // LIVE TELEMETRY`
 
 <div align="center">
 
@@ -86,7 +88,7 @@ These products are part of my current portfolio. Public repositories and live de
 
 <sub>Statistics are generated dynamically from public GitHub activity; no totals are entered manually.</sub>
 
-## `> connect --open`
+## `05 // START A CONVERSATION`
 
 <div align="center">
 
