@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,45:102a1c,100:22c55e&amp;height=220&amp;section=header&amp;text=VOLDI%20MBAYO&amp;fontSize=48&amp;fontColor=f0f6fc&amp;fontAlignY=38&amp;desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER%20%E2%80%A2%20FOUNDER%20OF%20HAVENLABS&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" alt="Voldi Mbayo — Full-Stack &amp; Mobile Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:22c55e&amp;height=200&amp;section=header&amp;text=VOLDI%20MBAYO&amp;fontSize=48&amp;fontColor=f0f6fc" alt="Voldi Mbayo" />
+
+### FULL-STACK &amp; MOBILE DEVELOPER · FOUNDER OF HAVENLABS
 
 <a href="https://voldimbayo.com"><img src="https://img.shields.io/badge/PORTFOLIO-22C55E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Portfolio" /></a>
 <a href="mailto:contact@voldimbayo.com"><img src="https://img.shields.io/badge/LET'S_TALK-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=22C55E" alt="Email Voldi Mbayo" /></a>
