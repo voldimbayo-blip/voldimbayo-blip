@@ -2,51 +2,88 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,55:450000,100:ff1f3d&text=VOLDI%20MBAYO&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&animation=fadeIn" width="100%" alt="Voldi Mbayo — Full-Stack and Mobile Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,48:2b0509,100:ff1f3d&text=VOLDI%20MBAYO&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&animation=fadeIn" width="100%" alt="Voldi Mbayo — Full-Stack and Mobile Developer" />
 
-### Founder of Havenlabs · Building sharp digital products across web, mobile and APIs
+### FOUNDER OF HAVENLABS
 
-[![Launch Interactive Portfolio](https://img.shields.io/badge/LAUNCH_INTERACTIVE_PORTFOLIO-FF1F3D?style=for-the-badge&logo=three.js&logoColor=white)](https://voldimbayo-blip.github.io/interactive-portfolio/)
-[![Portfolio](https://img.shields.io/badge/VOLDIMBAYO.COM-121212?style=for-the-badge&logo=googlechrome&logoColor=FF1F3D)](https://voldimbayo.com)
-[![Email](https://img.shields.io/badge/START_A_PROJECT-121212?style=for-the-badge&logo=gmail&logoColor=FF1F3D)](mailto:contact@voldimbayo.com)
+`WEB PLATFORMS`　·　`MOBILE PRODUCTS`　·　`BACKEND SYSTEMS`　·　`PRODUCT DESIGN`
 
-`WEB PLATFORMS` · `MOBILE PRODUCTS` · `BACKEND SYSTEMS` · `PRODUCT DESIGN`
+![Status](https://img.shields.io/badge/STATUS-BUILDING-FF1F3D?style=for-the-badge&labelColor=090909)
+![Focus](https://img.shields.io/badge/FOCUS-PRODUCT_SYSTEMS-FF1F3D?style=for-the-badge&labelColor=090909)
+![Location](https://img.shields.io/badge/BASE-AFRICA-FF1F3D?style=for-the-badge&labelColor=090909)
 
 </div>
 
 ---
 
-## Developer console
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### Current mission
+## SYSTEM PROFILE
 
-Building useful, well-crafted products through **Havenlabs**, from experience design and interfaces to application logic, APIs and databases.
+I build complete digital products—from interface and product experience to mobile applications, APIs, databases and deployment.
+
+My work focuses on clear systems, strong visual identity and practical technology designed for African and global markets.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### Open to
+## CURRENT MODE
 
-Selected product collaborations, technical partnerships and ambitious client work.
+```text
+ROLE       Full-Stack + Mobile
+STUDIO     Havenlabs
+MODE       Building
+PRIORITY   Useful products
+STANDARD   Clear. Fast. Alive.
+```
 
 </td>
 </tr>
 </table>
 
-## Selected systems
+## PRODUCT LAB
 
-| Project | Focus | Status |
-| :--- | :--- | :--- |
-| **TalentGrid** | Talent and opportunity platform | In development |
-| **EK Talk Helper** | Communication support product | In development |
-| **VoFa Link** | Connected digital experience | In development |
-| **Interactive Portfolio** | WebGL developer experience | [Explore source](https://github.com/voldimbayo-blip/interactive-portfolio) |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Technology stack
+### 01 / TalentGrid
+
+**Talent & opportunity system**
+
+A platform designed to connect people, skills and opportunities through a focused product experience.
+
+`PRODUCT` `WEB` `DATA`
+
+</td>
+<td width="33%" valign="top">
+
+### 02 / EK Talk Helper
+
+**Communication support**
+
+A practical digital product built to make communication clearer and more accessible.
+
+`MOBILE` `UX` `SYSTEMS`
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / VoFa Link
+
+**Connected experience**
+
+A product concept focused on useful connections, simple flows and scalable architecture.
+
+`PLATFORM` `API` `MOBILE`
+
+</td>
+</tr>
+</table>
+
+## TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -58,12 +95,25 @@ Selected product collaborations, technical partnerships and ambitious client wor
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=FF1F3D)
 ![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=FF1F3D)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=FF1F3D)
+![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=FF1F3D)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=FF1F3D)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=FF1F3D)
+![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=FF1F3D)
 
 </div>
 
-## Live GitHub signal
+<br />
+
+| LAYER | TOOLSET | OUTPUT |
+| :--- | :--- | :--- |
+| **Interface** | HTML · CSS · JavaScript | Responsive product interfaces |
+| **Mobile** | Flutter · Dart | Cross-platform applications |
+| **Backend** | Python · Django · PHP | APIs and business logic |
+| **Data** | MySQL | Structured and reliable storage |
+| **Creative code** | Three.js · WebGL | Immersive digital experiences |
+| **Workflow** | Git · GitHub | Versioned, collaborative delivery |
+
+## LIVE GITHUB SIGNAL
 
 <div align="center">
 
@@ -81,14 +131,14 @@ Selected product collaborations, technical partnerships and ambitious client wor
 
 </div>
 
-<sub>Statistics are generated from public GitHub activity. No totals are entered manually.</sub>
+<sub>Live data generated only from public GitHub activity. No numbers are entered manually.</sub>
 
 ---
 
 <div align="center">
 
-### BUILD SOMETHING THAT FEELS ALIVE.
+### BUILDING DIGITAL SYSTEMS THAT MOVE.
 
-[voldimbayo.com](https://voldimbayo.com) · [contact@voldimbayo.com](mailto:contact@voldimbayo.com) · [Interactive portfolio](https://voldimbayo-blip.github.io/interactive-portfolio/)
+**FULL-STACK · MOBILE · PRODUCT · CREATIVE TECHNOLOGY**
 
 </div>
