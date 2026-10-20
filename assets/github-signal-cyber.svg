@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Voldi Mbayo Cyber Signal</title>
+<desc id="desc">Cyber-themed developer profile panel featuring mobile, backend, web and cloud disciplines.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0f14"/><stop offset="1" stop-color="#111820"/></linearGradient>
+  <radialGradient id="radar"><stop stop-color="#ef233c" stop-opacity=".22"/><stop offset=".55" stop-color="#ef233c" stop-opacity=".05"/><stop offset="1" stop-color="#ef233c" stop-opacity="0"/></radialGradient>
+  <linearGradient id="beam" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ef233c" stop-opacity="0"/><stop offset="1" stop-color="#ef233c" stop-opacity=".5"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-opacity=".32"/></pattern>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="520" rx="22" fill="url(#panel)"/>
+<rect x="1" y="1" width="1198" height="518" rx="21" fill="none" stroke="#3d444d" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="480" rx="14" fill="url(#grid)" opacity=".8"/>
+<path d="M20 82V36a16 16 0 0 1 16-16h70M1180 82V36a16 16 0 0 0-16-16h-70M20 438v46a16 16 0 0 0 16 16h70M1180 438v46a16 16 0 0 1-16 16h-70" fill="none" stroke="#ef233c" stroke-width="3"/>
+<path d="M76 62h98M1026 62h98" stroke="#ef233c" stroke-width="4"/>
+<text x="70" y="125" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="800" letter-spacing="5">VOLDI MBAYO</text>
+<text x="72" y="160" fill="#8b949e" font-family="monospace" font-size="17" letter-spacing="3">FULL-STACK  •  MOBILE  •  PRODUCT</text>
+<g transform="translate(760 260)">
+  <circle r="180" fill="url(#radar)"/>
+  <circle r="146" fill="#0d1117" fill-opacity=".65" stroke="#30363d" stroke-width="2"/>
+  <circle r="112" fill="none" stroke="#47515c" stroke-width="1.5"/>
+  <circle r="76" fill="none" stroke="#47515c" stroke-width="1.5"/>
+  <circle r="40" fill="none" stroke="#47515c" stroke-width="1.5"/>
+  <path d="M-146 0H146M0-146V146M-103-103 103 103M103-103-103 103" stroke="#30363d" stroke-width="1"/>
+  <path d="M0 0 20-144A146 146 0 0 1 103-103Z" fill="url(#beam)"/>
+  <path d="M0 0 103-103" stroke="#ef233c" stroke-width="3" filter="url(#glow)"/>
+  <circle r="8" fill="#ef233c" filter="url(#glow)"/>
+  <circle cx="-76" cy="-58" r="6" fill="#ef233c"/>
+  <circle cx="92" cy="56" r="6" fill="#ef233c"/>
+  <circle cx="-43" cy="99" r="6" fill="#f0f6fc"/>
+  <path d="M-76-58-146-90M92 56 150 86M-43 99-96 146" stroke="#ef233c" stroke-width="2"/>
+</g>
+<g font-family="monospace" font-size="15" font-weight="700">
+  <g transform="translate(555 205)"><rect width="130" height="42" rx="9" fill="#111820" stroke="#ef233c"/><circle cx="20" cy="21" r="5" fill="#ef233c"/><text x="38" y="27" fill="#f0f6fc">MOBILE</text></g>
+  <g transform="translate(950 205)"><rect width="140" height="42" rx="9" fill="#111820" stroke="#59636e"/><circle cx="20" cy="21" r="5" fill="#8b949e"/><text x="38" y="27" fill="#f0f6fc">BACKEND</text></g>
+  <g transform="translate(555 335)"><rect width="130" height="42" rx="9" fill="#111820" stroke="#ef233c"/><circle cx="20" cy="21" r="5" fill="#ef233c"/><text x="38" y="27" fill="#f0f6fc">WEB</text></g>
+  <g transform="translate(950 335)"><rect width="140" height="42" rx="9" fill="#111820" stroke="#ef233c"/><circle cx="20" cy="21" r="5" fill="#ef233c"/><text x="38" y="27" fill="#f0f6fc">CLOUD</text></g>
+</g>
+<g transform="translate(70 225)">
+  <rect width="405" height="188" rx="14" fill="#0d1117" fill-opacity=".85" stroke="#30363d"/>
+  <text x="28" y="45" fill="#ef233c" font-family="monospace" font-size="17" font-weight="700">&lt;/&gt;  SYSTEM ONLINE</text>
+  <path d="M28 65H375" stroke="#30363d"/>
+  <text x="28" y="100" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">BUILDING USEFUL TECHNOLOGY</text>
+  <text x="28" y="132" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="16">Clean products. Reliable systems.</text>
+  <text x="28" y="158" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="16">Open, connected experiences.</text>
+</g>
+<text x="70" y="468" fill="#8b949e" font-family="monospace" font-size="13" letter-spacing="2">HAVEN LABS  /  DIGITAL PRODUCT ENGINEERING</text>
+<g transform="translate(1085 455)"><path d="m0 20 12-20h7L7 20zm18 0L30 0h7L25 20zm18 0L48 0h7L43 20z" fill="#ef233c"/></g>
+</svg>
