@@ -92,18 +92,22 @@
 
 > Selected work and verified live projects are available at **[voldimbayo.com/projects](https://www.voldimbayo.com/projects/)**.
 
-## `04 / Live GitHub signal`
+## `04 / GitHub activity`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voldimbayo-blip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef233c&icon_color=ef233c&text_color=ffffff" alt="Voldi Mbayo GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef233c&text_color=ffffff" alt="Languages used in Voldi Mbayo public repositories" />
+  <a href="https://github.com/voldimbayo-blip">
+    <img src="https://img.shields.io/badge/OFFICIAL_ACTIVITY-View_on_GitHub-ef233c?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111" alt="View Voldi Mbayo's official GitHub activity" />
+  </a>
+  <a href="https://github.com/voldimbayo-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-Public_%26_private_visibility-ffffff?style=for-the-badge&logo=github&logoColor=111111&labelColor=ffffff" alt="View Voldi Mbayo's repositories" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=voldimbayo-blip&theme=dark&hide_border=true&background=0D1117&ring=EF233C&fire=EF233C&currStreakLabel=FFFFFF" alt="Voldi Mbayo GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef233c&text_color=ffffff&custom_title=Public%20code%20languages" alt="Language breakdown for Voldi Mbayo's public repositories only" />
 </p>
 
-<p align="center"><sub>Live metrics are generated from public activity for <b>voldimbayo-blip</b>; no figures are entered manually.</sub></p>
+<p align="center"><sub><b>Source of truth:</b> the official GitHub contribution graph above. The language card is a cached snapshot of public repositories only; it cannot include private repository code or reproduce GitHub's contribution count.</sub></p>
 
 ---
 
