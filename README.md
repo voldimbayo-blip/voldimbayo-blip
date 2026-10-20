@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/OFFICIAL_ACTIVITY-View_on_GitHub-ef233c?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111" alt="View Voldi Mbayo's official GitHub activity" />
   </a>
   <a href="https://github.com/voldimbayo-blip?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-Public_%26_private_visibility-ffffff?style=for-the-badge&logo=github&logoColor=111111&labelColor=ffffff" alt="View Voldi Mbayo's repositories" />
+    <img src="https://img.shields.io/badge/REPOSITORIES-Browse_on_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=111111&labelColor=ffffff" alt="View Voldi Mbayo's repositories" />
   </a>
 </p>
 
