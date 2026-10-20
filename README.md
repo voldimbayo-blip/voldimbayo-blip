@@ -103,11 +103,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef233c&text_color=ffffff&custom_title=Public%20code%20languages" alt="Language breakdown for Voldi Mbayo's public repositories only" />
-</p>
-
-<p align="center"><sub><b>Source of truth:</b> the official GitHub contribution graph above. The language card is a cached snapshot of public repositories only; it cannot include private repository code or reproduce GitHub's contribution count.</sub></p>
+<p align="center"><sub><b>Source of truth:</b> GitHub's official activity and repository pages. Third-party counters and language cards are intentionally omitted because they can exclude private work and remain stale for several days.</sub></p>
 
 ---
 
