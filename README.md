@@ -1,144 +1,113 @@
-<!-- Profile README · voldimbayo-blip -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Voldi Mbayo — Full-Stack & Mobile Developer" width="100%" />
+</p>
 
-<div align="center">
+<h1 align="center">Voldi Mbayo</h1>
+<h3 align="center">Full-Stack & Mobile Developer · Founder, Haven Labs</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,48:2b0509,100:ff1f3d&text=VOLDI%20MBAYO&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&animation=fadeIn" width="100%" alt="Voldi Mbayo — Full-Stack and Mobile Developer" />
+<p align="center">
+  <a href="https://www.voldimbayo.com"><img src="https://img.shields.io/badge/PORTFOLIO-voldimbayo.com-ef233c?style=for-the-badge&labelColor=111111" alt="Portfolio" /></a>
+  <a href="https://github.com/voldimbayo-blip"><img src="https://img.shields.io/badge/GITHUB-voldimbayo--blip-ffffff?style=for-the-badge&logo=github&logoColor=111111&labelColor=ffffff" alt="GitHub profile" /></a>
+</p>
 
-### FOUNDER OF HAVENLABS
-
-`WEB PLATFORMS`　·　`MOBILE PRODUCTS`　·　`BACKEND SYSTEMS`　·　`PRODUCT DESIGN`
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-FF1F3D?style=for-the-badge&labelColor=090909)
-![Focus](https://img.shields.io/badge/FOCUS-PRODUCT_SYSTEMS-FF1F3D?style=for-the-badge&labelColor=090909)
-![Location](https://img.shields.io/badge/BASE-AFRICA-FF1F3D?style=for-the-badge&labelColor=090909)
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## SYSTEM PROFILE
-
-I build complete digital products—from interface and product experience to mobile applications, APIs, databases and deployment.
-
-My work focuses on clear systems, strong visual identity and practical technology designed for African and global markets.
-
-</td>
-<td width="42%" valign="top">
-
-## CURRENT MODE
-
-```text
-ROLE       Full-Stack + Mobile
-STUDIO     Havenlabs
-MODE       Building
-PRIORITY   Useful products
-STANDARD   Clear. Fast. Alive.
-```
-
-</td>
-</tr>
-</table>
-
-## PRODUCT LAB
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 01 / TalentGrid
-
-**Talent & opportunity system**
-
-A platform designed to connect people, skills and opportunities through a focused product experience.
-
-`PRODUCT` `WEB` `DATA`
-
-</td>
-<td width="33%" valign="top">
-
-### 02 / EK Talk Helper
-
-**Communication support**
-
-A practical digital product built to make communication clearer and more accessible.
-
-`MOBILE` `UX` `SYSTEMS`
-
-</td>
-<td width="33%" valign="top">
-
-### 03 / VoFa Link
-
-**Connected experience**
-
-A product concept focused on useful connections, simple flows and scalable architecture.
-
-`PLATFORM` `API` `MOBILE`
-
-</td>
-</tr>
-</table>
-
-## TECHNOLOGY MATRIX
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=FF1F3D)
-![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=FF1F3D)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=FF1F3D)
-![Three.js](https://img.shields.io/badge/Three.js-090909?style=for-the-badge&logo=threedotjs&logoColor=FF1F3D)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FF1F3D)
-![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=FF1F3D)
-![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=FF1F3D)
-![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=FF1F3D)
-![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=FF1F3D)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=FF1F3D)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=FF1F3D)
-![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=FF1F3D)
-
-</div>
-
-<br />
-
-| LAYER | TOOLSET | OUTPUT |
-| :--- | :--- | :--- |
-| **Interface** | HTML · CSS · JavaScript | Responsive product interfaces |
-| **Mobile** | Flutter · Dart | Cross-platform applications |
-| **Backend** | Python · Django · PHP | APIs and business logic |
-| **Data** | MySQL | Structured and reliable storage |
-| **Creative code** | Three.js · WebGL | Immersive digital experiences |
-| **Workflow** | Git · GitHub | Versioned, collaborative delivery |
-
-## LIVE GITHUB SIGNAL
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=voldimbayo-blip&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050505&amp;title_color=ff1f3d&amp;text_color=f4f4f5&amp;icon_color=ff1f3d&amp;rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=voldimbayo-blip&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050505&amp;title_color=ff1f3d&amp;text_color=f4f4f5&amp;icon_color=ff1f3d&amp;rank_icon=github" alt="Voldi Mbayo GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&amp;layout=compact&amp;hide_border=true&amp;bg_color=050505&amp;title_color=ff1f3d&amp;text_color=f4f4f5" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&amp;layout=compact&amp;hide_border=true&amp;bg_color=050505&amp;title_color=ff1f3d&amp;text_color=f4f4f5" alt="Languages used in Voldi Mbayo public repositories" />
-</picture>
-
-<img src="https://streak-stats.demolab.com?user=voldimbayo-blip&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;ring=FF1F3D&amp;fire=FF1F3D&amp;currStreakLabel=FF1F3D" alt="Voldi Mbayo GitHub contribution streak" />
-
-</div>
-
-<sub>Live data generated only from public GitHub activity. No numbers are entered manually.</sub>
+<p align="center">
+  I design and build useful digital products — from polished interfaces and cross-platform apps<br/>
+  to reliable APIs, data layers and cloud-backed experiences.
+</p>
 
 ---
 
-<div align="center">
+## `01 / Developer dashboard`
 
-### BUILDING DIGITAL SYSTEMS THAT MOVE.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PROFILE</h3>
+      <p><b>Role</b> — Full-Stack & Mobile Developer</p>
+      <p><b>Studio</b> — Haven Labs</p>
+      <p><b>Focus</b> — Mobile, web, backend & product</p>
+      <p><b>Mode</b> — Building scalable, human-centered products</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NOW</h3>
+      <p>◉ Shipping Flutter experiences</p>
+      <p>◉ Building Django APIs</p>
+      <p>◉ Connecting products with Firebase</p>
+      <p>◉ Turning ideas into dependable systems</p>
+    </td>
+  </tr>
+</table>
 
-**FULL-STACK · MOBILE · PRODUCT · CREATIVE TECHNOLOGY**
+## `02 / Technology matrix`
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=ef233c" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ef233c" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ef233c" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
+</p>
+
+| Layer | Stack | What I deliver |
+|:--|:--|:--|
+| Mobile | **Flutter · Dart** | Cross-platform applications with clean, responsive UX |
+| Backend | **Python · Django** | APIs, business logic and dependable services |
+| Web | **JavaScript · HTML · CSS** | Fast, accessible and modern interfaces |
+| Cloud | **Firebase** | Authentication, realtime data and product infrastructure |
+| Delivery | **Git · GitHub** | Versioned, collaborative and maintainable releases |
+
+## `03 / Product lab`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TalentGrid</h3>
+      <p><b>Talent & opportunity platform</b></p>
+      <p>A focused system designed to connect people, skills and opportunities through a clear product experience.</p>
+      <code>WEB · DATA · PRODUCT</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>EK Talk Helper</h3>
+      <p><b>Communication support</b></p>
+      <p>A practical mobile product designed to make communication clearer and more accessible.</p>
+      <code>MOBILE · UX · SYSTEMS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VoFa Link</h3>
+      <p><b>Connected experience</b></p>
+      <p>A platform concept centered on useful connections, simple flows and scalable architecture.</p>
+      <code>PLATFORM · API · MOBILE</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Haven Labs</h3>
+      <p><b>Digital product studio</b></p>
+      <p>The home for building thoughtful web, mobile and AI-powered products with strong visual identity.</p>
+      <code>STUDIO · PRODUCT · ENGINEERING</code>
+    </td>
+  </tr>
+</table>
+
+> Selected work and verified live projects are available at **[voldimbayo.com/projects](https://www.voldimbayo.com/projects/)**.
+
+## `04 / Live GitHub signal`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voldimbayo-blip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef233c&icon_color=ef233c&text_color=ffffff" alt="Voldi Mbayo GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voldimbayo-blip&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef233c&text_color=ffffff" alt="Languages used in Voldi Mbayo public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=voldimbayo-blip&theme=dark&hide_border=true&background=0D1117&ring=EF233C&fire=EF233C&currStreakLabel=FFFFFF" alt="Voldi Mbayo GitHub contribution streak" />
+</p>
+
+<p align="center"><sub>Live metrics are generated from public activity for <b>voldimbayo-blip</b>; no figures are entered manually.</sub></p>
+
+---
+
+<h3 align="center">BUILDING DIGITAL SYSTEMS THAT MOVE.</h3>
+<p align="center"><b>FULL-STACK · MOBILE · PRODUCT · CREATIVE TECHNOLOGY</b></p>
+<p align="center"><a href="https://www.voldimbayo.com">Explore the portfolio →</a></p>
+
