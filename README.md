@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/voldimbayo-blip">
-    <img src="./assets/github-signal.svg" alt="Voldi Mbayo live GitHub signal" width="100%" />
+    <img src="./assets/github-signal.svg?v=2" alt="Voldi Mbayo live GitHub signal" width="100%" />
   </a>
 </p>
 
