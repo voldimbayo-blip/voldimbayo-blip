@@ -96,6 +96,12 @@
 
 <p align="center">
   <a href="https://github.com/voldimbayo-blip">
+    <img src="./assets/github-signal.svg" alt="Voldi Mbayo live GitHub signal" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/voldimbayo-blip">
     <img src="https://img.shields.io/badge/OFFICIAL_ACTIVITY-View_on_GitHub-ef233c?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111" alt="View Voldi Mbayo's official GitHub activity" />
   </a>
   <a href="https://github.com/voldimbayo-blip?tab=repositories">
