@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Voldi Mbayo — Full-Stack & Mobile Developer" width="100%" />
+  <img src="./assets/banner.png" alt="Voldi Mbayo | Full-Stack & Mobile Developer" width="100%" />
 </p>
 
 <h1 align="center">Voldi Mbayo</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  I design and build useful digital products — from polished interfaces and cross-platform apps<br/>
+  I design and build useful digital products: from polished interfaces and cross-platform apps<br/>
   to reliable APIs, data layers and cloud-backed experiences.
 </p>
 
@@ -23,10 +23,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>PROFILE</h3>
-      <p><b>Role</b> — Full-Stack & Mobile Developer</p>
-      <p><b>Studio</b> — Haven Labs</p>
-      <p><b>Focus</b> — Mobile, web, backend & product</p>
-      <p><b>Mode</b> — Building scalable, human-centered products</p>
+      <p><b>Role</b>: Full-Stack & Mobile Developer</p>
+      <p><b>Studio</b>: Haven Labs</p>
+      <p><b>Focus</b>: Mobile, web, backend & product</p>
+      <p><b>Mode</b>: Building scalable, human-centered products</p>
     </td>
     <td width="50%" valign="top">
       <h3>NOW</h3>
